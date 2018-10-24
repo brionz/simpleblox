@@ -1,7 +1,7 @@
-baseurl = "https://gohugo.io/"
+baseurl = "https://www.richgamer.net/"
 title = "Simple Blox"
-author = "Oka bRionZ"
-copyright = 'Copyright © by <a href="https://www.okabrionz.com">Oka bRionZ</a>'
+author = "RG"
+copyright = 'Copyright © by <a href="/">RG</a>'
 canonifyurls = true
 paginate = 3
 theme = "simpleblox"
@@ -13,6 +13,6 @@ theme = "simpleblox"
     weight = "-10"
 
 [params]
-facebook = "antihacx"
-twitter = "antihacx"
-github = "okabrionz"
+facebook = "#"
+twitter = "#"
+github = "#"
